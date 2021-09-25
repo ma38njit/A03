@@ -1,4 +1,26 @@
 # A03
+
+1) Go and download the latest version of GIT.
+
+2) Go on JetBrains webstorm edition website and download the student version of webstorm for free.(Make sure you give webstorm your Git Hub password or else it won't be able to access your repositories)
+
+3) Now go and make an account on GitHub.
+
+4) Create a repository at the top right page of GitHub.
+
+5) Make the repository public and give it a readme file 
+
+6) Then make the repository on WebStorm and import the repository from GitHub.
+
+7) Create Webstorm files and add the files to GIT.
+
+8) Commit changes you did on the files.
+
+9) Push these changes you put in the local repository to the remote repository where it will be public.
+
+
+**GLOSSARY**
+
 - **Branch**
 
 A branch is just another version of a repository containing similar structure/code. Usually a branch is used to help “borrow” some specific aspect of a repository. You can work on a branch and then later add merge the branches back into one.
