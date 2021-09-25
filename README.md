@@ -1,5 +1,8 @@
 # A03
 
+
+**STEPS**
+
 1) Go and download the latest version of GIT.
 
 2) Go on JetBrains webstorm edition website and download the student version of webstorm for free.(Make sure you give webstorm your Git Hub password or else it won't be able to access your repositories)
