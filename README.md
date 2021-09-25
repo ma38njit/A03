@@ -1,5 +1,5 @@
 # A03
-**Branch/
+-Branch/
 A branch is just another version of a repository containing similar structure/code. Usually a branch is used to help “borrow” some specific aspect of a repository. You can work on a branch and then later add merge the branches back into one.
 *Clone
 A clone is essentially a copy of a repository that exists locally on your computer instead of some random server like GitHub. You can connect your clone back to the remote if you want to add changes to the repository and push these changes back.
